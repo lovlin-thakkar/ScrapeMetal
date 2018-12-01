@@ -3,7 +3,6 @@ language:      node_js
 node_js:
   - "node"
 install:
-  - sudo apt-get install -y build-essential python
   - npm install
 script:
   - npm test
