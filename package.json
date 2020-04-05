@@ -31,6 +31,7 @@
     "mongoose": ">=5.9.7",
     "request": ">=2.88.2",
     "cheerio": ">=1.0.0-rc.3",
-    "nodemailer": ">=6.4.6"
+    "nodemailer": ">=6.4.6",
+    "nodemailer-smtp-transport": ">=2.7.4"
   }
 }
