@@ -30,6 +30,7 @@
     "hoek": ">=4.2.1",
     "mongoose": ">=5.9.7",
     "request": ">=2.88.2",
-    "cheerio": ">=1.0.0-rc.3"
+    "cheerio": ">=1.0.0-rc.3",
+    "nodemailer": ">=6.4.6"
   }
 }
