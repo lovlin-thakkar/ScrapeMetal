@@ -32,6 +32,7 @@
     "request": ">=2.88.2",
     "cheerio": ">=1.0.0-rc.3",
     "nodemailer": ">=6.4.6",
-    "nodemailer-smtp-transport": ">=2.7.4"
+    "nodemailer-smtp-transport": ">=2.7.4",
+    "bcryptjs": ">=2.4.3"
   }
 }
